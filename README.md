@@ -8,7 +8,7 @@ There is montmorill(onite).
   TypeScript, Rust, C++, Python etc.
   
   ![Top Langs](./profile/top-langs.svg)
-- A senior high school student in Jinan, China.
+- A freshman at SDUST, Jinan Campus.
 - Interested in cycling, hiking and climbing.
 
 ![WakaTime stats](./profile/wakatime.svg)
